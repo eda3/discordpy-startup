@@ -17,8 +17,8 @@ async def ping(ctx):
 
 
 @bot.command()
-async def aaa(ctx):
-    await ctx.send('eee')
+async def houka(ctx):
+    await ctx.send(':fire:')
 
 
 bot.run(token)
