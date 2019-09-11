@@ -13,7 +13,8 @@ async def on_command_error(ctx, error):
 
 @bot.command()
 async def ping(ctx):
-    await ctx.send('pong')
+    await ctx.send('pongpong')
+
 
 @bot.command()
 async def aaa(ctx):
